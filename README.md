@@ -1,0 +1,14 @@
+# missi-user 12 SKQ1.220303.001 V14.0.7.0.SMSMIXM release-keys
+- manufacturer: xiaomi
+- platform: lahaina
+- codename: redwood
+- flavor: missi-user
+- release: 12
+- id: SKQ1.220303.001
+- incremental: V14.0.7.0.SMSMIXM
+- tags: release-keys
+- fingerprint: Redmi/redwood/redwood:12/RKQ1.211001.001/V14.0.7.0.SMSMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-12-SKQ1.220303.001-V14.0.7.0.SMSMIXM-release-keys
+- repo: redmi_redwood_dump
