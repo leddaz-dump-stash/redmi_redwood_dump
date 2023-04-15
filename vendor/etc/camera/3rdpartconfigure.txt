@@ -1,0 +1,80 @@
+#Whitelist support for front flash
+FrontFlash
+{
+    com.tencent.mm
+    com.tencent.mobileqq
+    com.whatsapp
+    com.facebook.orca
+    org.telegram.messenger
+    com.snapchat.android
+}
+
+WechatVideo
+{
+    com.tencent.mm
+}
+
+ThirdpartyVideo
+{
+    com.whatsapp
+    org.telegram.messenger
+    com.google.android.apps.tachyon
+    us.zoom.videomeetings
+    com.viber.voip
+    jp.naver.line.android
+    com.smile.gifmaker
+    air.tv.douyu.android
+    com.tencent.mm
+    com.zhihu.android
+    com.tencent.mobileqq
+    com.qiyi.video
+    com.xhey.xcamera
+    com.baidu.homework
+    cmb.pb
+    com.taobao.taobao
+    com.alibaba.android.rimet
+    com.chinamworld.main
+    com.cubic.autohome
+    com.shizhuang.duapp
+    com.ximalaya.ting.android
+    com.cmbchina.ccd.pluto.cmbActivity
+    org.codeaurora.ims
+}
+
+whatsappVideo
+{
+    com.whatsapp
+}
+
+SpecialfrontTp
+{
+    com.tencent.mm
+    org.codeaurora.ims
+    com.whatsapp
+}
+
+SpecialrearTp
+{
+    com.qiyi.video
+    com.zhihu.android
+    com.dangdang.buy2
+    com.ss.android.auto
+}
+
+TwiceConfigFlash
+{
+    com.qingqikeji.blackhorse.passenger
+}
+
+ForcePipline3rdPart
+{
+    com.google.android.apps.messaging
+    com.ss.android.auto
+    com.dangdang.buy2
+    com.qingqikeji.blackhorse.passenger
+}
+
+DouYvLive
+{
+    air.tv.douyu.android
+}
